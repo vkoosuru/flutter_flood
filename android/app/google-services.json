@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800387080016",
+    "project_id": "flood-829c3",
+    "storage_bucket": "flood-829c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800387080016:android:b35786e5e1ceb3cd145655",
+        "android_client_info": {
+          "package_name": "com.example.flood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800387080016-akvt42mht201ad3m7h5rml5gsoaif5u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4Zzw-yvm-IUfQLOlJKH11SLsrKPZ-Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800387080016-akvt42mht201ad3m7h5rml5gsoaif5u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
